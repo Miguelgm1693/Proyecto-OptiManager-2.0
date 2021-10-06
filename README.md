@@ -1,6 +1,9 @@
 # Proyecto OptiManager 2.0
 Aplicación desarrollada para la asignatura de Proyecto Integrado para finalizar el CFGS de Desarrollo de Aplicaciones Multiplataforma
 
+DESCRIPCIÓN APP
+Aplicación de gestión para ópticas y agilizar el trabajo de los empleados en los registros.
+
 IDEAS PROYECTO
 - Pantalla de inicio con acceso Login para cada una de las ópticas.
 - Acceso con una cuenta de administrador para gestionar todas las ópticas.
