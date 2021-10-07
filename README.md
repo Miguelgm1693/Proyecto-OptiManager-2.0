@@ -16,7 +16,7 @@ IDEAS PROYECTO
 - En el caso de empleados registraremos el nombre, apellidos, dirección, correo electrónico, DNI, puesto que ocupa, titulación, años en la empresa, salario, etc...
 - Intentaremos hacer que los empleados puedan hacer como una firma al acceder al puesto de trabajo y otra al salir, para así registrar las horas en el puesto.
 - En la base de datos registraremos los usuarios, los clientes, los artículos y los empleados.
-· BD Clientes --> CodCliente, NomCliente, ApeCliente, DirCliente, TelCliente, AVCliente.
-· BD Artículos --> Id, CodArt, NomArt, PVOArt, PVPArt.
-· BD Empleados --> CodEmple, NomEmple, ApeEmple, DNIEmple, EmaEmple, PuesEmple, TitEmple, AnyoEmple, SalEmple.
-· BD Usuarios --> CodUsu, NomUsu, PassUsu, NomUsu, ApeUsu.
+  · BD Clientes --> CodCliente, NomCliente, ApeCliente, DirCliente, TelCliente, AVCliente.
+  · BD Artículos --> Id, CodArt, NomArt, PVOArt, PVPArt.
+  · BD Empleados --> CodEmple, NomEmple, ApeEmple, DNIEmple, EmaEmple, PuesEmple, TitEmple, AnyoEmple, SalEmple.
+  · BD Usuarios --> CodUsu, NomUsu, PassUsu, NomUsu, ApeUsu.
