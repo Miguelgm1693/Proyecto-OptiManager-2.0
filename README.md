@@ -17,7 +17,7 @@ Android
 - Pantalla de inicio con acceso Login para cada una de las ópticas.
 - Acceso con una cuenta de administrador para gestionar todas las ópticas (con o sin acceso a clientes, artículos, etc...)
 - Botones en pantalla de inicio al accede de Clientes, Nuevo Cliente, Listado de Artículos, Empleados. Todo para gestionar la propia óptica.
-- Es una versión 2.0 ya que en el 1er año de ciclo hice un CRUD con la idea de hacer una app de gestión para ópticas.[Enlace a CRUD]().
+- Es una versión 2.0 ya que en el 1er año de ciclo hice un CRUD con la idea de hacer una app de gestión para ópticas. [Enlace a CRUD]().
 - Su finalidad es agilizar el trabajo de los empleados para perder el menor tiempo posible a la hora de añadir clientes, artículos o toma de medidas.
 - Lo que quiero conseguir con esta app es tener un trato más cercano de cara al cliente.
 - Para el botón de clientes, aparecerá una lista con todos los clientes que hayamos agregado, y tendremos una opción de búsqueda por CodCliente o por Nombre y apellidos.
