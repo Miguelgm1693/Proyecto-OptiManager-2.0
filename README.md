@@ -8,7 +8,7 @@ Me baso en esta App por mi experiencia pasada en el mundo de la óptica, y porqu
 Comento que agilizaría el proceso ya que no tendríamos que dirigirnos a un ordenador de escritorio, y directamente con un smartphone o una tablet tendríamos un trato más directo con el cliente y nos resultaría mas sencillo ir agregando información sobre el mismo <br>
 
 ## TECNOLOGÍA EMPLEADA 
-Android
+Android | Firebase
 
 ## DISEÑO/MOCKUP DE LA APLICACIÓN
 ----------------------------------
