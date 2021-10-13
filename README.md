@@ -24,3 +24,9 @@ Android
   - BD Artículos --> Id, CodArt, NomArt, PVOArt, PVPArt.
   - BD Empleados --> CodEmple, NomEmple, ApeEmple, DNIEmple, EmaEmple, PuesEmple, TitEmple, AnyoEmple, SalEmple.
   - BD Usuarios --> CodUsu, NomUsu, PassUsu, NomUsu, ApeUsu.
+
+## COMPLETADO
+[ ] Poner descripción, título y objetivos de la App en Github
+[ ] Hacer mockup de la aplicación en AdobeXD
+[ ] Subir código fuente de la App
+[ ]
