@@ -12,7 +12,8 @@ Comento que agilizaría el proceso ya que no tendríamos que dirigirnos a un ord
 
 ## DISEÑO/MOCKUP DE LA APLICACIÓN
 
-![image](http://url.to/image.png = 250x250)
+![image](http://url.to/image.png "Title" {width=40px height=400px})
+
 ----------------------------------
 
 ## OBJETIVOS DEL PROYECTO
