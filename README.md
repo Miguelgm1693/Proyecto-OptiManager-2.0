@@ -23,7 +23,7 @@ Android
   - BD Clientes --> CodCliente, NomCliente, ApeCliente, DirCliente, TelCliente, AVCliente.
   - BD Artículos --> Id, CodArt, NomArt, PVOArt, PVPArt.
   - BD Empleados --> CodEmple, NomEmple, ApeEmple, DNIEmple, EmaEmple, PuesEmple, TitEmple, AnyoEmple, SalEmple.
-  - BD Usuarios --> CodUsu, NomUsu, PassUsu, NomUsu, ApeUsu.
+  - BD Usuarios --> CodUsu, NomUsu, PassUsu.
 
 ## COMPLETADO
 - [ ] Poner descripción, título y objetivos de la App en Github
