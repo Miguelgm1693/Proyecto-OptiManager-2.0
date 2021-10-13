@@ -7,7 +7,7 @@ Aplicación de gestión para ópticas. La idea, es agilizar el registro de nuevo
 ## TECNOLOGÍA EMPLEADA 
 Android
 
-## IDEAS PROYECTO
+## OBJETIVOS DEL PROYECTO
 - Pantalla de inicio con acceso Login para cada una de las ópticas.
 - Acceso con una cuenta de administrador para gestionar todas las ópticas (con o sin acceso a clientes, artículos, etc...)
 - Botones en pantalla de inicio al accede de Clientes, Nuevo Cliente, Listado de Artículos, Empleados. Todo para gestionar la propia óptica.
