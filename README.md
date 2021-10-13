@@ -11,6 +11,8 @@ Comento que agilizaría el proceso ya que no tendríamos que dirigirnos a un ord
 **Android | Firebase**
 
 ## DISEÑO/MOCKUP DE LA APLICACIÓN
+
+![image](http://url.to/image.png = 250x250)
 ----------------------------------
 
 ## OBJETIVOS DEL PROYECTO
