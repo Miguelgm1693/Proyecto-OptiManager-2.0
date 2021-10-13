@@ -1,11 +1,12 @@
 # Proyecto OptiManager 2.0
-Aplicación desarrollada para proyecto final de Desarrollo de Aplicaciones Multiplataforma
+Aplicación desarrollada para proyecto final de ciclo de **Desarrollo de Aplicaciones Multiplataforma**
 
 ## BREVE DESCRIPCIÓN APP
 Aplicación de gestión para ópticas. <br>
 Consiste en una App que nos permita gestionar todo lo relacionado con una óptica, como pueden ser los clientes, los artículos y los empleados. <br>
 Me baso en esta App por mi experiencia pasada en el mundo de la óptica, y porque creo que puede ser de utilidad ya que agilizaría el proceso de añadir nuevos clientes, artículos, y llevar un control mas exaustivo de los empleados. <br>
 Comento que agilizaría el proceso ya que no tendríamos que dirigirnos a un ordenador de escritorio, y directamente con un smartphone o una tablet tendríamos un trato más directo con el cliente y nos resultaría mas sencillo ir agregando información sobre el mismo <br>
+
 ## TECNOLOGÍA EMPLEADA 
 Android
 
@@ -28,7 +29,7 @@ Android
   - BD Usuarios --> CodUsu, NomUsu, PassUsu.
 
 ## COMPLETADO
-- [ ] Poner descripción, título y objetivos de la App en Github
+- [X] Poner descripción, título y objetivos de la App en Github
 - [ ] Hacer mockup de la aplicación en AdobeXD
 - [ ] Subir código fuente de la App
 - [ ]
