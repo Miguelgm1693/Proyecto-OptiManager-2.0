@@ -26,7 +26,7 @@ Android
   - BD Usuarios --> CodUsu, NomUsu, PassUsu, NomUsu, ApeUsu.
 
 ## COMPLETADO
-[ ] Poner descripción, título y objetivos de la App en Github
-[ ] Hacer mockup de la aplicación en AdobeXD
-[ ] Subir código fuente de la App
-[ ]
+- [ ] Poner descripción, título y objetivos de la App en Github
+- [ ] Hacer mockup de la aplicación en AdobeXD
+- [ ] Subir código fuente de la App
+- [ ]
