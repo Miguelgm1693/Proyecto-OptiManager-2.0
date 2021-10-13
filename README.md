@@ -10,6 +10,9 @@ Comento que agilizaría el proceso ya que no tendríamos que dirigirnos a un ord
 ## TECNOLOGÍA EMPLEADA 
 Android
 
+## DISEÑO/MOCKUP DE LA APLICACIÓN
+----------------------------------
+
 ## OBJETIVOS DEL PROYECTO
 - Pantalla de inicio con acceso Login para cada una de las ópticas.
 - Acceso con una cuenta de administrador para gestionar todas las ópticas (con o sin acceso a clientes, artículos, etc...)
