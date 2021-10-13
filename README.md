@@ -35,4 +35,6 @@ Android
 - [X] Poner descripción, título y objetivos de la App en Github
 - [ ] Hacer mockup de la aplicación en AdobeXD
 - [ ] Subir código fuente de la App
-- [ ]
+- [ ] PDF explicativo de la App
+- [ ] Tutorial de uso de la App con capturas
+- [ ] Subida de video con explicación de la App
