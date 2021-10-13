@@ -1,4 +1,4 @@
-# Proyecto OptiManager 2.0
+# OptiManager 2.0
 Aplicación desarrollada para proyecto final de ciclo de **Desarrollo de Aplicaciones Multiplataforma**
 
 ## BREVE DESCRIPCIÓN APP
