@@ -33,8 +33,8 @@ Comento que agilizaría el proceso ya que no tendríamos que dirigirnos a un ord
   - BD Usuarios --> CodUsu, NomUsu, PassUsu.
 
 ## COMPLETADO
-- [X] Poner descripción, título y objetivos de la App en Github
-- [ ] Hacer mockup de la aplicación en AdobeXD
+- [X] Descripción, título y objetivos de la App
+- [ ] Hacer mockup de la aplicación
 - [ ] Subir código fuente de la App
 - [ ] PDF explicativo de la App
 - [ ] Tutorial de uso de la App con capturas
