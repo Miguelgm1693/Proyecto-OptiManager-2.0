@@ -31,6 +31,9 @@ Decimos que agilizaría el proceso ya que no tendríamos que dirigirnos a un ord
   - BD Artículos --> Id, CodArt, NomArt, PVOArt, PVPArt.
   - BD Empleados --> CodEmple, NomEmple, ApeEmple, DNIEmple, EmaEmple, PuesEmple, TitEmple, AnyoEmple, SalEmple, HoraEmp.
   - BD Usuarios --> CodUsu, NomUsu, PassUsu.
+<hr>
+
+## DIARIO SEMANAL
 
 ## COMPLETADO
 - [X] Descripción, título y objetivos de la App
