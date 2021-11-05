@@ -34,6 +34,16 @@ Decimos que agilizaría el proceso ya que no tendríamos que dirigirnos a un ord
 <hr>
 
 ## DIARIO SEMANAL
+### Semana 1 (1-7 Noviembre)
+- Título del proyecto y descripción sobre la aplicación.
+- Realización del Mockup de la aplicación.
+- Tecnología que vamos a utilizar y objetivos.
+- Actualización del README
+
+### Semana 2 (8-14 Noviembre)
+
+### Semana 3 (15-21 Noviembre)
+- Entrega anteproyecto para comenzarlo.
 
 ## COMPLETADO
 - [X] Descripción, título y objetivos de la App
