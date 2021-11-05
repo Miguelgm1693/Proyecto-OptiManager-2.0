@@ -41,9 +41,10 @@ Decimos que agilizaría el proceso ya que no tendríamos que dirigirnos a un ord
 - Actualización del README
 
 ### Semana 2 (8-14 Noviembre)
+- Todas las tareas realizadas a espera de revisión de anteproyecto
 
 ### Semana 3 (15-21 Noviembre)
-- Entrega anteproyecto para comenzarlo.
+- Entrega anteproyecto para revisión y comenzar proyecto.
 
 ## COMPLETADO
 - [X] Descripción, título y objetivos de la App
