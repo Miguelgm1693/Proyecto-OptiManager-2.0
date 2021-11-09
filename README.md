@@ -14,7 +14,7 @@ Sería buena idea esta APP, porque al empleado le daría la total libertad de ir
 
 
 ## TECNOLOGÍA EMPLEADA 
-**IONIC**
+<strong> IONIC </strong>
 
 ## DISEÑO/MOCKUP DE LA APLICACIÓN
 
