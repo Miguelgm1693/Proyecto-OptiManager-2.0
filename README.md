@@ -7,7 +7,7 @@ Consiste en una App que nos permita gestionar todo lo relacionado con una óptic
 Me baso en esta App por mi experiencia laboral en el mundo de la óptica, y porque creo que puede ser de utilidad ya que agilizaría el proceso de añadir nuevos clientes, artículos, y llevar un control mas exhaustivo de los empleados. <br>
 Decimos que agilizaría el proceso ya que no tendríamos que dirigirnos a un ordenador de escritorio, y directamente con un smartphone o una tablet tendríamos un trato más directo con el cliente y nos resultaría más sencillo ir agregando información sobre el mismo, durante el muestreo de artículos como en la toma de medidas dentro de un gabinete óptico. <br>
 
-## ¿Para quién va dirigida la aplicación?
+## ¿A quién va dirigida la aplicación?
 Esta aplicación va dirigida para las empresas ópticas, ya que les será de más utilidad poder ir agregando clientes a una lista a través de una APP y recoger toda la información de cada cliente, en vez de utilizar el clásico papel y bolígrafo, con la posibilidad de que los datos de los clientes con el tiempo se extravíen y a la hora de buscar el documento de datos del cliente nos resulte más complicado. <br>
 Actualmente se utilizan muchas aplicaciones de escritorio para ordenador, pero creo que sería buena idea crear una aplicación para móviles y tablets.<br>
 Sería buena idea esta APP, porque al empleado le daría la total libertad de ir presentándole al cliente los productos de la óptica (monturas, tipos de lentes, etc...) e ir anotando los gustos o necesidades de cada uno de ellos a través de un móvil o tablet.
