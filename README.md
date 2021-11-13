@@ -30,12 +30,11 @@ Sería buena idea esta APP, porque al empleado le daría la total libertad de ir
 - Para el botón de clientes, aparecerá un listado con todos los clientes que se hayan agregado, y tendremos una opción de búsqueda por CodCliente o por Nombre y apellidos.
 - El registro de clientes será con su nombre, apellidos, dirección, teléfono, antecedentes visuales... El CodCliente se generará automáticamente cada vez que vayamos agregando un cliente nuevo.
 - Para los artículos si podremos modificar el código de artículo para que la búsqueda de los artículos sea de manera más sencilla, ya que con unas siglas podamos buscarlo.
-- En el caso de empleados registraremos el nombre, apellidos, dirección, correo electrónico, DNI, puesto que ocupa, titulación, años en la empresa, salario, horas, etc...
-- Intentaré introducir un check cuando el empleado acceda al puesto de trabajo para así tener un registro de las horas y otro check a la salida.
+- En el caso de empleados registraremos el nombre, apellidos, dirección, correo electrónico, DNI, puesto que ocupa, titulación, años en la empresa, salario.
 - En la base de datos registraremos los usuarios, los clientes, los artículos y los empleados.
   - BD Clientes --> CodCliente, NomCliente, ApeCliente, DirCliente, TelCliente, AVCliente.
   - BD Artículos --> Id, CodArt, NomArt, PVOArt, PVPArt.
-  - BD Empleados --> CodEmple, NomEmple, ApeEmple, DNIEmple, EmaEmple, PuesEmple, TitEmple, AnyoEmple, SalEmple, HoraEmp.
+  - BD Empleados --> CodEmple, NomEmple, ApeEmple, DNIEmple, EmaEmple, PuesEmple, TitEmple, AnyoEmple, SalEmple.
   - BD Usuarios --> CodUsu, NomUsu, PassUsu.
 <hr>
 
@@ -47,7 +46,6 @@ Sería buena idea esta APP, porque al empleado le daría la total libertad de ir
 
 ### Semana 2 (8-14 Noviembre)
 - Realización del Mockup de la aplicación.
-- Logo principal de la App
 
 ### Semana 3 (15-21 Noviembre)
 - Entrega anteproyecto para revisión y comenzar proyecto.
