@@ -9,7 +9,7 @@ Decimos que agilizaría el proceso ya que no tendríamos que dirigirnos a un ord
 
 ## ¿A quién va dirigida la aplicación?
 Esta aplicación va dirigida para las empresas ópticas, ya que les será de más utilidad poder ir agregando clientes a una lista a través de una APP y recoger toda la información de cada cliente, en vez de utilizar el clásico papel y bolígrafo, con la posibilidad de que los datos de los clientes con el tiempo se extravíen y a la hora de buscar el documento de datos del cliente nos resulte más complicado. <br>
-Actualmente se utilizan muchas aplicaciones de escritorio para ordenador, pero creo que sería buena idea crear una aplicación para móviles y tablets.<br>
+Actualmente se utilizan muchas aplicaciones de escritorio, pero creo que sería buena idea crear una aplicación para móviles y tablets.<br>
 Sería buena idea esta APP, porque al empleado le daría la total libertad de ir presentándole al cliente los productos de la óptica (monturas, tipos de lentes, etc...) e ir anotando los gustos o necesidades de cada uno de ellos a través de un móvil o tablet.
 
 
@@ -52,7 +52,7 @@ Sería buena idea esta APP, porque al empleado le daría la total libertad de ir
 
 ## COMPLETADO
 - [X] Descripción, título y objetivos de la App
-- [ ] Hacer mockup de la aplicación
+- [X] Hacer mockup de la aplicación
 - [ ] Subir código fuente de la App
 - [ ] PDF explicativo de la App
 - [ ] Tutorial de uso de la App con capturas
