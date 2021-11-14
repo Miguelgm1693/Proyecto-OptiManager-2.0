@@ -18,7 +18,7 @@ Sería buena idea esta APP, porque al empleado le daría la total libertad de ir
 
 ## DISEÑO/MOCKUP DE LA APLICACIÓN
 ![image](mockup_app.png "Mockup app")
-*La imagen puede no representar el resultado final. Pueden haber cambios durante el desarrollo.
+<i>La imagen puede no representar el resultado final. Pueden haber cambios durante el desarrollo.</i>
 ----------------------------------
 
 ## OBJETIVOS DEL PROYECTO
