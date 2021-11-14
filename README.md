@@ -17,8 +17,8 @@ Sería buena idea esta APP, porque al empleado le daría la total libertad de ir
 <strong> IONIC </strong>
 
 ## DISEÑO/MOCKUP DE LA APLICACIÓN
-![image](mockup_app.png "Mockup app")
-<i>La imagen puede no representar el resultado final. Pueden haber cambios durante el desarrollo.</i>
+![image](mockup_app.png "Mockup app") <br>
+**La imagen puede no representar el resultado final. Pueden haber cambios durante el desarrollo.**
 ----------------------------------
 
 ## OBJETIVOS DEL PROYECTO
