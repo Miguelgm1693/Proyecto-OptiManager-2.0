@@ -1,7 +1,7 @@
 # OptiManager 2.0
 Aplicación desarrollada para proyecto final de ciclo de **Desarrollo de Aplicaciones Multiplataforma**
 
-## BREVE DESCRIPCIÓN APP
+## DESCRIPCIÓN APP
 Aplicación de gestión para ópticas. <br>
 Consiste en una App que nos permita gestionar todo lo relacionado con una óptica, como pueden ser los clientes, los artículos y los empleados. <br>
 Me baso en esta App por mi experiencia laboral en el mundo de la óptica, y porque creo que puede ser de utilidad ya que agilizaría el proceso de añadir nuevos clientes, artículos, y llevar un control mas exhaustivo de los empleados. <br>
