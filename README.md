@@ -41,6 +41,20 @@ La imagen puede no representar el resultado final. Pueden haber cambios durante 
   - BD Usuarios --> CodUsu, NomUsu, PassUsu.
 <hr>
 
+## VERSIÓN ALPHA OPTIMANAGER2.0 (13 MAYO)
+- <strong>Aplicación carpeta "optimanager2.0.1".</strong>
+- Versión temprana de App Optimanager2.0.
+- Se puede acceder a través de un login con correo electrónico y contraseña.
+- Aún no se pueden crear nuevos usuarios.
+- El usuario con acceso, accede directamente a una pantalla de menú de clientes en la que puede crear, editar y borrar clientes.
+- Tenemos el menú hamburgusea que al tocarlo, nos aparecerá un menú de opciones en el que solo podemos cerrar la sesión.
+- Se ha comprobado que todas las funcionalidades en esta versión 2.0.1 funcionan correctamente.
+
+#### IMAGENES VERSIÓN ALPHA 2.0.1
+
+
+
+
 ## DIARIO SEMANAL
 ### Semana 1 (1-7 Noviembre)
 - Título del proyecto y descripción sobre la aplicación.
@@ -53,10 +67,33 @@ La imagen puede no representar el resultado final. Pueden haber cambios durante 
 ### Semana 3 (15-21 Noviembre)
 - Entrega anteproyecto para revisión y comenzar proyecto.
 
+### Semana 4 (25 Abril - 1 Mayo)
+- Comienzo proyecto aplicación OptiManager2.0
+- Se crean difenrentes
+- Problemas con las versiones y reinicio de proyecto.
+
+### Semana 5 (2 - 8 Mayo) 
+- Volvemos a reiniciar proyecto por problemas de versiones.
+- Creamos elementos con los campos que necesitamos (Cliente, Artículo, Empleado).
+- Generamos distintas páginas como listado de clientes, nuevo cliente y editar cliente.
+- Creamos proyecto en Firebase y creamos base de datos Firestore.
+- Fallos en la instalación de AngularFire. Incapaz de instalar paquetes.
+- Búsqueda de recursos en internet para solución de dicho problema
+
+### Semana 6 (9 - 15 Mayo)
+- Creación de servicios
+- 1er agregado de datos para comprobación con conexión Firebase
+- Agregado de clientes a través de formulario de "nuevo cliente"
+- Agregado botón de borrado y edición de clientes
+- Añadida página de login.
+- Funcionalidad de Login y Logout.
+
 ## COMPLETADO
 - [X] Descripción, título y objetivos de la App
 - [X] Hacer mockup de la aplicación
-- [ ] Subir código fuente de la App
+- [X] Subir código fuente de la App (Versión Alpha)
+- [ ] Subir código fuente de la App (Versión Beta)
+- [ ] Subir código fuente de la App (Versión Final)
 - [ ] PDF explicativo de la App
 - [ ] Tutorial de uso de la App con capturas
 - [ ] Subida de video con explicación de la App
