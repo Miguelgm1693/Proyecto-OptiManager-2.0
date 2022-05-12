@@ -12,7 +12,7 @@ import { ClienteService } from 'src/app/services/cliente.service';
 export class ListClientesPage implements OnInit {
   clientes: Observable<Cliente[]>;
 
-  constructor(private clienteService: ClienteService,
+  constructor(public clienteService: ClienteService,
               private router: Router
   ) { 
     this.clientes = this.clienteService.getClientes();
@@ -24,6 +24,16 @@ export class ListClientesPage implements OnInit {
   addCliente() {
     this.router.navigateByUrl('/crear-cliente');
   }
+
+  borrarCliente(clienteId:string) {
+    this.clienteService.borrarCliente(clienteId);    
+  }
+
+  editarCliente(id:string) {
+    this.router.navigateByUrl(`editar-cliente/${id}`);
+  }
+
+
 
 
 }

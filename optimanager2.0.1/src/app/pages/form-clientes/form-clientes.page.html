@@ -3,6 +3,7 @@
     <ion-buttons slot="start">
       <ion-back-button defaultHref="/list-clientes"></ion-back-button>
     </ion-buttons>
+    <ion-title class="ion-text-center">{{ pageTitle}}</ion-title>
   </ion-toolbar>
 </ion-header>
 
@@ -10,24 +11,24 @@
   <ion-list>
     <ion-item>
       <ion-label position="floating"> Nombre </ion-label>
-      <ion-input [(ngModel)]="c.nomCliente"></ion-input>
+      <ion-input [(ngModel)]="cliente.nomCliente"></ion-input>
     </ion-item>
     <ion-item>
       <ion-label position="floating"> Apellidos </ion-label>
-      <ion-input [(ngModel)]="c.apeCliente"></ion-input>
+      <ion-input [(ngModel)]="cliente.apeCliente"></ion-input>
     </ion-item>
     <ion-item>
       <ion-label position="floating"> Teléfono </ion-label>
-      <ion-input [(ngModel)]="c.telCliente"></ion-input>
+      <ion-input [(ngModel)]="cliente.telCliente"></ion-input>
     </ion-item>
     <ion-item>
       <ion-label position="floating"> Dirección </ion-label>
-      <ion-input [(ngModel)]="c.dirCliente"></ion-input>
+      <ion-input [(ngModel)]="cliente.dirCliente"></ion-input>
     </ion-item>
 
     <ion-item>
       <ion-label position="floating"> A.V </ion-label>
-      <ion-input [(ngModel)]="c.avCliente"></ion-input>
+      <ion-input [(ngModel)]="cliente.avCliente"></ion-input>
     </ion-item>
   </ion-list>
   <ion-button (click)="guardarCliente()" expand="block" fill="clear" shape="around">
