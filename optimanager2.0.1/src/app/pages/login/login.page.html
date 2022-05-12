@@ -1,0 +1,57 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="end">
+      <ion-menu-button menu="main-menu"></ion-menu-button>
+    </ion-buttons>    
+    <ion-title class="ion-text-center">Login</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding ion-test-center">
+
+  <ion-list>
+    <ion-item>
+      <ion-input
+        class="texto ion-text-center"
+        clearInput
+        value = {{ultemail}}
+        placeholder="Correo electrónico"
+        [(ngModel)]="email">
+      </ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-input
+        type="password"
+        class="texto ion-text-center"
+        clearInput
+        placeholder="Contraseña"
+        (keyup.enter)="login()"
+        [(ngModel)]="password">
+      </ion-input>
+    </ion-item>
+  </ion-list>
+
+  <ion-button
+    expand="block"
+    class="texto"
+    color="success"
+    shape="round"
+    (click)="login()">
+    Acceder
+    <ion-spinner *ngIf="cargando"></ion-spinner>
+  </ion-button>
+
+  <div class="ion-text-center">
+    <a class="texto" href="/registro">
+      <ion-icon name="person-add-outline"></ion-icon>
+      Crear cuenta
+    </a>
+    <br>
+    <a class="texto" href="/restaura-password">
+      <ion-icon name="mail-outline"></ion-icon>
+      Recuperar contraseña
+    </a>
+  </div>
+
+</ion-content>

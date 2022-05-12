@@ -1,0 +1,20 @@
+<ion-menu contentId="main" menuId="main-menu" side="end" type="overlay">
+  <ion-header>
+    <ion-toolbar>
+      <ion-title>Opciones</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content>  
+    <ion-list>
+      <ion-item *ngIf="authService.getCurrentUser()"
+                (click)="authService.logout()"
+                href="/login">
+        <ion-icon slot="start" name="exit"></ion-icon>
+        <ion-label> Cerrar Sesión </ion-label>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+  
+</ion-menu>
+
