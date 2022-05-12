@@ -1,0 +1,7 @@
+{
+  "name": "optimanager2.0.1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

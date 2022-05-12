@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "optimanager2": {
+      "hosting": {
+        "app": [
+          "optimanager2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "optimanager2"
+  }
+}
