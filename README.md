@@ -50,6 +50,10 @@ La imagen puede no representar el resultado final. Pueden haber cambios durante 
 - Tenemos el menú hamburgusea que al tocarlo, nos aparecerá un menú de opciones en el que solo podemos cerrar la sesión.
 - Se ha comprobado que todas las funcionalidades en esta versión 2.0.1 funcionan correctamente.
 
+### USUARIO DE PRUEBAS 
+· Correo electrónico: test@optimanages.com
+· Contraseña: 12345678
+
 #### IMAGENES VERSIÓN ALPHA 2.0.1
 
 
