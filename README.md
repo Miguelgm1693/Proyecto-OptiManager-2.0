@@ -109,3 +109,8 @@ La imagen puede no representar el resultado final. Pueden haber cambios durante 
 - [ ] PDF explicativo de la App
 - [ ] Tutorial de uso de la App con capturas
 - [ ] Subida de video con explicación de la App
+
+## BIBLIOGRAFÍA
+- Documentación Ionic [Ionic Doc](https://ionicframework.com/docs/)
+- Aplicación ejemplo iList-Game-v2. [iList-Game-v2](https://github.com/Miguelgm1693/iList-Game-v2) 
+- Libro Aprende Ionic - Luis José Sánchez [Aprende Ionic con ejercicios](https://leanpub.com/aprendeionic) 
