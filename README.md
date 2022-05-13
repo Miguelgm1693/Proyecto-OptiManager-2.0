@@ -51,7 +51,7 @@ La imagen puede no representar el resultado final. Pueden haber cambios durante 
 - Se ha comprobado que todas las funcionalidades en esta versión 2.0.1 funcionan correctamente.
 
 ### USUARIO DE PRUEBAS 
-· Correo electrónico: test@optimanages.com
+· Correo electrónico: test@optimanager.com
 · Contraseña: 12345678
 
 #### IMAGENES VERSIÓN ALPHA 2.0.1
