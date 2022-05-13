@@ -55,6 +55,7 @@ La imagen puede no representar el resultado final. Pueden haber cambios durante 
 · Contraseña: 12345678
 
 #### IMAGENES VERSIÓN ALPHA 2.0.1
+![image](img/Login_usuario.png "Login") <br>
 
 
 
