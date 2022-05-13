@@ -49,13 +49,20 @@ La imagen puede no representar el resultado final. Pueden haber cambios durante 
 - El usuario con acceso, accede directamente a una pantalla de menú de clientes en la que puede crear, editar y borrar clientes.
 - Tenemos el menú hamburgusea que al tocarlo, nos aparecerá un menú de opciones en el que solo podemos cerrar la sesión.
 - Se ha comprobado que todas las funcionalidades en esta versión 2.0.1 funcionan correctamente.
+- No se han utilizado aún estilos, en la versión Beta estará modificado.
+
+### No cumplido con primera entrega
+- No se ha podido crear vídeo por problemas con los drivers de gráfica en Ubuntu.
+- Al intentar generar APK solo se producían errores y no he podido generarla. Lo comprobaré en próximas versiones.  
 
 ### USUARIO DE PRUEBAS 
 · Correo electrónico: test@optimanager.com
 · Contraseña: 12345678
 
 #### IMAGENES VERSIÓN ALPHA 2.0.1
-![image](img/Login_usuario.png "Login") <br>
+![image](img/Login_usuario.png "Login") ![image](img/Lista_clientes.png "Lista Clientes") <br>
+![image](img/Nuevo_cliente.png "Nuevo cliente") ![image](img/Editar_Clientes.png "Editar Cliente") <br>
+![image](img/Menu_opciones.png "Menú") <br> 
 
 
 
