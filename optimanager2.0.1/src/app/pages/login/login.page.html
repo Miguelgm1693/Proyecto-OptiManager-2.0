@@ -3,11 +3,20 @@
     <ion-buttons slot="end">
       <ion-menu-button menu="main-menu"></ion-menu-button>
     </ion-buttons>    
-    <ion-title class="ion-text-center">Login</ion-title>
+    <ion-title class="ion-text-center"></ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content class="ion-padding ion-test-center">
+
+  <ion-grid>
+    <ion-row>
+      <ion-col class="ion-text-center">
+        <ion-icon class="icon-app" name="glasses-outline"></ion-icon>
+        <h2 class="title-app">OptiManager 2.0</h2>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
 
   <ion-list>
     <ion-item>
@@ -34,7 +43,7 @@
 
   <ion-button
     expand="block"
-    class="texto"
+    class="texto boton-login"
     color="success"
     shape="round"
     (click)="login()">
@@ -43,15 +52,17 @@
   </ion-button>
 
   <div class="ion-text-center">
-    <a class="texto" href="/registro">
+    <a class="texto new-account" href="/registro">
       <ion-icon name="person-add-outline"></ion-icon>
       Crear cuenta
     </a>
     <br>
-    <a class="texto" href="/restaura-password">
+    <a class="texto reset-pass" href="/restaura-password">
       <ion-icon name="mail-outline"></ion-icon>
       Recuperar contraseña
     </a>
   </div>
+
+  <p class="texto ion-text-center copyright">© 2021. iListGame. Todos los derechos reservados.</p>
 
 </ion-content>

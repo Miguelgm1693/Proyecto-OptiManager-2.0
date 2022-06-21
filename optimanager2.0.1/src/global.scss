@@ -25,3 +25,68 @@
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
 
+/*fuentes y estilos personalizados */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700&display=swap');
+
+ion-title {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4em;
+    font-weight: 400;
+}
+
+p {
+    text-align: left;
+    font-family:'Roboto', sans-serif;
+    font-size: 0.8em !important;
+    font-weight: 200 !important;
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em !important;
+    font-weight: 400 !important;
+}
+
+.title-app{
+    text-align: center;
+    font-size: 1.5em !important;
+    font-weight: 400 !important;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+.icon-app {
+    font-size: 7em !important;
+}
+
+.texto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.boton-login {
+    width: 200px;
+    height: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.copyright {
+    margin-top: 170px;
+}
+
+.new-account {
+    text-decoration: none;
+    color: green;
+
+}
+
+.reset-pass {
+    text-decoration: none;
+    color: gold;
+}
+
+
