@@ -11,21 +11,28 @@
 </ion-header>
 
 <ion-content>
-  <ion-item *ngFor="let c of clientes | async">
-    <ion-label class="texto">
-      <h2>{{c.nomCliente}} {{c.apeCliente}}</h2>
-      <p>{{c.telCliente}}</p>
-    </ion-label>
-
-    <ion-button (click)="editarCliente(c.clienteId)" color="warning">
-      <ion-icon  slot="icon-only" name="pencil" ></ion-icon>
-    </ion-button>
-
-    <ion-button (click)="borrarCliente(c.clienteId)" color="danger">
-      <ion-icon  slot="icon-only" name="trash" ></ion-icon>
-    </ion-button>
-  </ion-item>
-  
+    <ion-header translucent>
+      <ion-toolbar>
+        <ion-searchbar></ion-searchbar>
+      </ion-toolbar>
+    </ion-header>
+    <ion-content fullscreen>
+      <ion-list>
+        <ion-item *ngFor="let c of clientes | async">
+          <ion-label class="texto">
+            <h2>{{c.nomCliente}} {{c.apeCliente}}</h2>
+            <p>{{c.telCliente}}</p>
+          </ion-label>
+      
+          <ion-button (click)="editarCliente(c.clienteId)" color="warning">
+            <ion-icon  slot="icon-only" name="pencil" ></ion-icon>
+          </ion-button>
+      
+          <ion-button (click)="borrarCliente(c.clienteId)" color="danger">
+            <ion-icon  slot="icon-only" name="trash" ></ion-icon>
+          </ion-button>
+        </ion-item>
+      </ion-list>
 
   <ion-fab vertical="bottom" horizontal="end" slot="fixed">
     <ion-fab-button (click)="addCliente()" color="medium">
